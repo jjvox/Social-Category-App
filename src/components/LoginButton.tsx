@@ -19,7 +19,7 @@ const LoginButton = () => {
   return (
     <div>
       <button className="btn" onClick={googleLogin}>
-        구글 로그인
+        구글로 시작하기
       </button>
     </div>
   );
